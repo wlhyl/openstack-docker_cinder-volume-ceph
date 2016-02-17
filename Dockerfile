@@ -5,7 +5,7 @@ MAINTAINER Zuhui Liu penguin_tux@live.com
 
 ENV BASE_VERSION 2016-01-07
 ENV OPENSTACK_VERSION liberty
-ENV BUID_VERSION 2016-01-15
+ENV BUID_VERSION 2016-02-17
 
 ADD ceph.repo /etc/yum.repos.d/ceph.repo
 
